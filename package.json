@@ -1,6 +1,5 @@
 {
-  "name": "it-incubator-todolist-ts",
-  "homepage": "https://Ustin4.github.io/Todolist",
+  "name": "todos",
   "jest": {
     "moduleNameMapper": {
       "axios": "axios/dist/node/axios.cjs"
